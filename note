@@ -1,0 +1,7 @@
+This script demonstrates how to deposit ERC20 tokens (such as USDT) from Ethereum to ZkSync using the ZkSync JavaScript library. You'll need to replace "your-private-key" with your actual private key.
+
+Please note that this is a basic example, and you may need to adjust the code based on your specific requirements, such as network selection, token selection, or additional transaction parameters.
+
+Make sure you have the necessary dependencies installed, including ethers and zksync libraries. You can install them by running npm install ethers zksync.
+
+Remember to exercise caution when working with cryptocurrencies and ensure you have a good understanding of the risks involved.
